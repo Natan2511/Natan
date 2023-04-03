@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hello!
 🌱 I'm learning right now at GOIT<br>🔭 I'm currently working on a Wallet project on React<br>🤝 Looking for a job<br>
 
 
